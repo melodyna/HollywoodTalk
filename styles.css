@@ -1,4 +1,4 @@
-/* Generated on: Sat Aug 06 2022 00:06:21 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Aug 06 2022 04:49:54 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -578,7 +578,7 @@
      }
    
      .heading {
-       font-size: 51px;
+       font-size: 40px;
      }
    
      .paragraph {
@@ -779,7 +779,7 @@
      }
    
      .heading {
-       font-size: 14vw;
+       font-size: 8vw;
      }
    
      .paragraph {
