@@ -1,4 +1,4 @@
-/* Generated on: Sat Aug 06 2022 05:34:22 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Aug 06 2022 14:52:34 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -430,7 +430,7 @@
    
    .heading-6 {
      margin-top: 0px;
-     font-weight: 400;
+     font-weight: 500;
    }
    
    .bg-img {
@@ -506,7 +506,7 @@
      }
    
      .section.mobile-overflow {
-       margin-top: 60px;
+       margin-top: 84px;
      }
    
      .div-block {
@@ -677,6 +677,8 @@
      }
    
      .section.mobile-overflow {
+       margin-top: 70px;
+       margin-bottom: 20px;
        padding-bottom: 0px;
      }
    
@@ -751,6 +753,10 @@
        text-align: left;
      }
    
+     .image-4 {
+       margin-top: 10px;
+     }
+   
      .heading-6 {
        font-size: 28px;
        letter-spacing: -1px;
@@ -758,11 +764,12 @@
    
      .bg-img {
        margin-bottom: 0px;
-       background-image: url("https://uploads-ssl.webflow.com/62b805b1e328a0e08dfc9f07/62ed62855cf598edcdcb7233_hollywood_06.jpg");
-       background-position: 50% 50%;
+       background-image: url("https://uploads-ssl.webflow.com/62b805b1e328a0e08dfc9f07/62ed632eaa8fcdf8cf9951d9_hollywood_01.jpg");
+       background-position: 75% 50%;
      }
    
      .heading-7 {
+       margin-top: -14px;
        font-size: 33px;
      }
    
@@ -794,7 +801,8 @@
      }
    
      .heading {
-       font-size: 10vw;
+       font-size: 11.5vw;
+       font-weight: 600;
      }
    
      .paragraph {
@@ -885,8 +893,8 @@
      }
    
      .bg-img {
-       background-image: url("https://uploads-ssl.webflow.com/62b805b1e328a0e08dfc9f07/62e34d00a210958200e70b3d_hollywood_05%20copy.jpg");
-       background-position: 40% 50%;
+       background-image: url("https://uploads-ssl.webflow.com/62b805b1e328a0e08dfc9f07/62ed632eaa8fcdf8cf9951d9_hollywood_01.jpg");
+       background-position: 90% 50%;
      }
    
      .heading-7 {
